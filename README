@@ -1,0 +1,7 @@
+This is abandonware formerly found at mowlem-enterprises.co.uk. Copyright unknown.
+
+Use it to change screen resolution on a mac programatically:
+    
+    scrutil s 2880 1800 16
+
+Last argument is color depth.
